@@ -6,7 +6,7 @@
   "main": "index.js",
   "license": "MIT",
   "author": "jiho lee <search5@gmail.com>",
-  "repository": "https://github.com/lmnet/franz-recipe-notion",
+  "repository": "https://github.com/search5/franz-recipe-dropbox",
   "config": {
     "serviceURL": "https://dropbox.com"
   }
