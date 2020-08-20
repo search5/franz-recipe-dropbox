@@ -1,13 +1,13 @@
 {
-  "id": "notion",
-  "name": "Notion",
+  "id": "dropbox",
+  "name": "Dropbox",
   "version": "1.0.0",
-  "description": "Notion",
+  "description": "Dropbox",
   "main": "index.js",
   "license": "MIT",
-  "author": "Yuriy Badalyantc <lmnet89@gmail.com>",
+  "author": "jiho lee <search5@gmail.com>",
   "repository": "https://github.com/lmnet/franz-recipe-notion",
   "config": {
-    "serviceURL": "https://notion.so"
+    "serviceURL": "https://dropbox.com"
   }
 }
